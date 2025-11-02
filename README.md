@@ -1,6 +1,6 @@
 # WhatsApp AI Chatbot
 
-An AI-powered WhatsApp chatbot built with Node.js, running on Replit.
+An AI-powered WhatsApp chatbot by a Ghanaian boy called MARISEL DEV built with Node.js, running on Replit with the help of Vermin Spartan and Jay Von.
 
 ## Features
 
